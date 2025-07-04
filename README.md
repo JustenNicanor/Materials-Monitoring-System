@@ -47,3 +47,12 @@ CREATE TABLE materials (
     person_in_charge VARCHAR(100),
     total_bal_qty INT DEFAULT 0
 );
+```
+
+### 📸 Project Preview
+
+Below is a screenshot of the Material Monitoring System interface:
+
+![Materials-Monitoring-System](cabinet.png)
+
+
