@@ -53,6 +53,6 @@ CREATE TABLE materials (
 
 Below is a screenshot of the Material Monitoring System interface:
 
-![Material Monitoring System Screenshot](mms1(1).png)
+![Materials-Monitoring-System](cabinet.png)
 
 
