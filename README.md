@@ -49,10 +49,41 @@ CREATE TABLE materials (
 );
 ```
 
+---
+
+
+# 👨‍💻 Technologies Used
+  - Frontend: HTML, CSS, JavaScript
+  - Backend: PHP
+  - Database: MySQL (via XAMPP)
+  - Local Server: Apache (XAMPP)
+
+---
+
+## 🚀 Accessing the Website Locally
+
+Once your project is set up and placed inside the htdocs folder of XAMPP:
+
+Start Apache and MySQL via the XAMPP control panel.
+
+ - Once your project is set up and placed inside the htdocs folder of XAMPP:
+ - Start Apache and MySQL via the XAMPP control panel.
+ - Open your browser.
+
+Visit the technician login page at:
+
+http://localhost/materials_project/SearchBar.php
+
+---
+
 ### 📸 Project Preview
 
 Below is a screenshot of the Material Monitoring System interface:
 
-![Materials-Monitoring-System](cabinet.png)
+![Material Monitoring System Screenshot](img/mms1.png)
+
+![Material Monitoring System Screenshot](img/mms3.png)
+
+![Material Monitoring System Screenshot](img/mms4.png)
 
 
